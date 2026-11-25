@@ -1,0 +1,363 @@
+{
+  "asOf": "2026-11-25",
+  "races": [
+    {
+      "date": "2026-11-28",
+      "r": 1,
+      "name": "2歳-3",
+      "count": 10,
+      "distance": 1300,
+      "time": "14:55",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F28&k_raceNo=1",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-28",
+      "r": 2,
+      "name": "2歳-2",
+      "count": 11,
+      "distance": 1300,
+      "time": "15:30",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F28&k_raceNo=2",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-28",
+      "r": 3,
+      "name": "岡山県吉備の温羅特別 C1C2混合",
+      "count": 10,
+      "distance": 1600,
+      "time": "16:05",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F28&k_raceNo=3",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-28",
+      "r": 4,
+      "name": "C3-5",
+      "count": 8,
+      "distance": 1600,
+      "time": "16:35",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F28&k_raceNo=4",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-28",
+      "r": 5,
+      "name": "C3-4",
+      "count": 10,
+      "distance": 1600,
+      "time": "17:10",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F28&k_raceNo=5",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-28",
+      "r": 6,
+      "name": "C1-6",
+      "count": 9,
+      "distance": 1600,
+      "time": "17:45",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F28&k_raceNo=6",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-28",
+      "r": 7,
+      "name": "C1-5",
+      "count": 9,
+      "distance": 1600,
+      "time": "18:15",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F28&k_raceNo=7",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-28",
+      "r": 8,
+      "name": "C1-4",
+      "count": 11,
+      "distance": 1600,
+      "time": "18:45",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F28&k_raceNo=8",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-28",
+      "r": 9,
+      "name": "C2-3",
+      "count": 12,
+      "distance": 1400,
+      "time": "19:15",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F28&k_raceNo=9",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-28",
+      "r": 10,
+      "name": "C2-2",
+      "count": 12,
+      "distance": 1400,
+      "time": "19:45",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F28&k_raceNo=10",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-28",
+      "r": 11,
+      "name": "小雪特別 C2-1選抜馬",
+      "count": 12,
+      "distance": 1400,
+      "time": "20:20",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F28&k_raceNo=11",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-28",
+      "r": 12,
+      "name": "ファイナルレース C2-6記者選抜",
+      "count": 12,
+      "distance": 1400,
+      "time": "20:50",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F28&k_raceNo=12",
+      "source": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F28&k_raceNo=12",
+      "horses": [
+        {
+          "n": 1,
+          "name": "ドウフォルス"
+        },
+        {
+          "n": 2,
+          "name": "ハバナローズ"
+        },
+        {
+          "n": 3,
+          "name": "フィティアンガ"
+        },
+        {
+          "n": 4,
+          "name": "ベルヴィオレット"
+        },
+        {
+          "n": 5,
+          "name": "リライトヒストリー"
+        },
+        {
+          "n": 6,
+          "name": "シシ"
+        },
+        {
+          "n": 7,
+          "name": "サノノゴールド"
+        },
+        {
+          "n": 8,
+          "name": "ノースザワールド"
+        },
+        {
+          "n": 9,
+          "name": "ハルノインパクト"
+        },
+        {
+          "n": 10,
+          "name": "メンヒ"
+        },
+        {
+          "n": 11,
+          "name": "ジョウショーボビー"
+        },
+        {
+          "n": 12,
+          "name": "トーケンクミー"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "r": 1,
+      "name": "2歳新馬",
+      "count": 6,
+      "distance": 1300,
+      "time": "14:55",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F29&k_raceNo=1",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-29",
+      "r": 2,
+      "name": "2歳-4",
+      "count": 12,
+      "distance": 1300,
+      "time": "15:30",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F29&k_raceNo=2",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-29",
+      "r": 3,
+      "name": "C2C3混合",
+      "count": 12,
+      "distance": 1400,
+      "time": "16:10",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F29&k_raceNo=3",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-29",
+      "r": 4,
+      "name": "C2-5",
+      "count": 10,
+      "distance": 1400,
+      "time": "16:45",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F29&k_raceNo=4",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-29",
+      "r": 5,
+      "name": "C2-4",
+      "count": 11,
+      "distance": 1400,
+      "time": "17:20",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F29&k_raceNo=5",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-29",
+      "r": 6,
+      "name": "C3-3",
+      "count": 10,
+      "distance": 1600,
+      "time": "17:50",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F29&k_raceNo=6",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-29",
+      "r": 7,
+      "name": "鳥取食パラダイス畜産物特別 C3-2",
+      "count": 9,
+      "distance": 1600,
+      "time": "18:20",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F29&k_raceNo=7",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-29",
+      "r": 8,
+      "name": "タマムラサキ特別 C3-1選抜馬",
+      "count": 8,
+      "distance": 1600,
+      "time": "18:50",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F29&k_raceNo=8",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-29",
+      "r": 9,
+      "name": "C1-3",
+      "count": 11,
+      "distance": 1600,
+      "time": "19:20",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F29&k_raceNo=9",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-29",
+      "r": 10,
+      "name": "C1-2",
+      "count": 8,
+      "distance": 1600,
+      "time": "19:50",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F29&k_raceNo=10",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-29",
+      "r": 11,
+      "name": "浦戸湾特別 3歳以上C級以下",
+      "count": 12,
+      "distance": 1800,
+      "time": "20:20",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F29&k_raceNo=11",
+      "source": "",
+      "horses": []
+    },
+    {
+      "date": "2026-11-29",
+      "r": 12,
+      "name": "ファイナルレース C3-6記者選抜",
+      "count": 11,
+      "distance": 1600,
+      "time": "20:50",
+      "url": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F29&k_raceNo=12",
+      "source": "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611293129110212",
+      "horses": [
+        {
+          "n": 1,
+          "name": "チークタイム"
+        },
+        {
+          "n": 2,
+          "name": "ノアプレスリー"
+        },
+        {
+          "n": 3,
+          "name": "マツリダショパン"
+        },
+        {
+          "n": 4,
+          "name": "ブランカアンヘル"
+        },
+        {
+          "n": 5,
+          "name": "アルデココ"
+        },
+        {
+          "n": 6,
+          "name": "カズラポニアン"
+        },
+        {
+          "n": 7,
+          "name": "ダノンルミエール"
+        },
+        {
+          "n": 8,
+          "name": "ヴィクトリーナイト"
+        },
+        {
+          "n": 9,
+          "name": "ルナヴェローチェ"
+        },
+        {
+          "n": 10,
+          "name": "マイネルサンテ"
+        },
+        {
+          "n": 11,
+          "name": "サノノビスケッツ"
+        }
+      ]
+    }
+  ]
+}
