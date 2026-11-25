@@ -1,0 +1,89 @@
+{
+  "schema": 1,
+  "races": [
+    {
+      "date": "2026-11-28",
+      "r": 12,
+      "name": "ファイナルレース C2-6記者選抜",
+      "final": true,
+      "scheduled": "2026-11-28T20:50:00+09:00",
+      "lockedDate": "2026-11-25",
+      "model": "0.9",
+      "dataThrough": "2026-11-22",
+      "source": "https://www.keiba.go.jp/KeibaWeb/TodayRaceInfo/DebaTable?k_babaCode=31&k_raceDate=2026%2F11%2F28&k_raceNo=12",
+      "entryCount": 12,
+      "matched": 12,
+      "picks": [
+        {
+          "rank": 1,
+          "n": 5,
+          "name": "リライトヒストリー",
+          "score": 12.3,
+          "evidence": {
+            "race": "2026-09-06_6",
+            "grade": "S",
+            "late": 3,
+            "front": 11,
+            "strong": 4
+          }
+        },
+        {
+          "rank": 2,
+          "n": 1,
+          "name": "ドウフォルス",
+          "score": 6.5,
+          "evidence": {
+            "race": "2026-09-06_5",
+            "grade": "A",
+            "late": 3,
+            "front": 5,
+            "strong": 2
+          }
+        }
+      ],
+      "result": null
+    },
+    {
+      "date": "2026-11-29",
+      "r": 12,
+      "name": "ファイナルレース C3-6記者選抜",
+      "final": true,
+      "scheduled": "2026-11-29T20:50:00+09:00",
+      "lockedDate": "2026-11-25",
+      "model": "0.9",
+      "dataThrough": "2026-11-22",
+      "source": "https://keiba.rakuten.co.jp/race_card/list/RACEID/202611293129110212",
+      "entryCount": 11,
+      "matched": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "n": 4,
+          "name": "ブランカアンヘル",
+          "score": 11.5,
+          "evidence": {
+            "race": "2026-10-18_6",
+            "grade": "A",
+            "late": 1,
+            "front": 9,
+            "strong": 3
+          }
+        },
+        {
+          "rank": 2,
+          "n": 2,
+          "name": "ノアプレスリー",
+          "score": 6.5,
+          "evidence": {
+            "race": "2026-07-25_2",
+            "grade": "A",
+            "late": 1,
+            "front": 7,
+            "strong": 6
+          }
+        }
+      ],
+      "result": null
+    }
+  ]
+}
